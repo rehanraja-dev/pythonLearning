@@ -75,6 +75,9 @@
 # print(list)
 # print(list.index(4))    # Get index of first occurrence of value
 
-list = []
-print(type(list))
-print(len(list))  # Length of list
+# list = []
+# print(type(list))
+# print(len(list))  # Length of list
+
+num = 18
+print(18//10)

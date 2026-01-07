@@ -2,8 +2,7 @@ import jwt
 from datetime import datetime, timedelta
 
 
-
-secret_key = "" 
+secret_key = "lauda" 
  
 payload1 = {
     "username": "rehanraja",
